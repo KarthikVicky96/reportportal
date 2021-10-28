@@ -2,3 +2,6 @@
 *.class
 *.doc
 *.csv
+
+public class gitignore 
+printf("gitignore");
